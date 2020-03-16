@@ -8,6 +8,7 @@ For the final project I developed an digit detection/classification algorithm fo
 
 The following two folders must be obtained from the SVHN website because they are too big. The website is as follows:
 http://ufldl.stanford.edu/housenumbers/
+
 5. '__train_32x32.mat__' and '__test_32x32.mat__' - SVHN 32x32 images for training and testing. The SVHN file 'extra_32x32.mat' was not used in this code
 6. '__Test__' - folder containing SVHN full images for digit detection (not training). Download 'test.tar.gz' from the SVHN website and place images in this folder.
 
