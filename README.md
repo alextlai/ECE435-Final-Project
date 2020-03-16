@@ -12,5 +12,5 @@ http://ufldl.stanford.edu/housenumbers/
 5. '__train_32x32.mat__' and '__test_32x32.mat__' - SVHN 32x32 images for training and testing. The SVHN file 'extra_32x32.mat' was not used in this code
 6. '__Test__' - folder containing SVHN full images for digit detection (not training). Download '__test.tar.gz__' from the SVHN website and place images in this folder.
 
-Beyond these files, I have also included two files: '__Final_Project_Training2.py__' and '__Final_Project_Detection2.py__' which are pretty much the main files that do everything the jupyter notebook does. They also require all of the files above to work.
+Beyond these files, I have also included two files: '__Final_Project_Training2.py__' and '__Final_Project_Detection2.py__' which are pretty much the main files that do everything the jupyter notebook does. However, these include commented code that show some of my other attempts at improving the algorithm. Both files also require all of the files above to work.
 The youtube link describing this project can be found here: 
