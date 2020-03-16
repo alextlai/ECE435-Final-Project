@@ -19,7 +19,7 @@ def get_noclass_data(purpose):
     image_data = []
     
     #Iterate through folder to grab images
-    for filename in glob.glob('test2/*.jpg'):
+    for filename in glob.glob('train2/*.jpg'):
         whole_image = Image.open(filename)
         data = np.asarray(whole_image)
         height,width,channel = np.shape(data)
